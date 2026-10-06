@@ -4,6 +4,7 @@ import axios from 'axios';
 const BACKEND_URLS = [
   import.meta.env.VITE_BACKEND_URL,
   import.meta.env.VITE_API_URL,
+  'https://eye-scan-backend.onrender.com',
   'http://127.0.0.1:8000',
   'http://localhost:8000',
   'http://172.20.10.2:8000'
